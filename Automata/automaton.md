@@ -1,5 +1,5 @@
 
-## Implementation of a deterministic finite automaton 
+## Implementation of a deterministic finite automaton in Mathematica 
 
 
 rule = {{1, 0} -> 2, {1, 1} -> 1, {2, 0} -> 1, {2, 1} -> 2};
